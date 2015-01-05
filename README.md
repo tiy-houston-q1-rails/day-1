@@ -12,6 +12,7 @@ How To Submit?
     * The issue name should be "$YourName - Day 1"
     * The issue description text should be a link
  
+```ruby
 # Assign "Hello World" to a variable message
  
 # Assign a different string to a different variable
@@ -34,3 +35,4 @@ How To Submit?
  
 # Use .each to loop through the array of hashes and print only one property of the hash
 # For example { title: "Gone with the Wind" } loop through and print only the [:title] 
+```
