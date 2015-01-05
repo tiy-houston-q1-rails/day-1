@@ -8,7 +8,7 @@ How To Submit?
 2. Name the file "day-1.rb"
 3. Add the code below each direction
 4. Press 'Create a public gist'
-5. Copy that URL to the Gist, and submit the link as an issue here
+5. Copy that URL to the Gist, and submit the link as an [issue](https://github.com/tiy-houston-q1-rails/day-1/issues)
     * The issue name should be "$YourName - Day 1"
     * The issue description text should be a link
  
